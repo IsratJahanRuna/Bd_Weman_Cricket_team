@@ -1,0 +1,24 @@
+.player{
+    display:flex;
+    border-bottom:1px solid lightgray;
+    margin-bottom:10px;
+    margin-right:20px;
+    margin-left: 20px;
+    padding-bottom:5px;
+}
+.player img{
+    margin-right:20px;
+}
+.player-name{
+    color:green;
+    font-weight: 1000px;
+}
+.main-button{
+    background-color:rgb(252, 8, 0);
+    width: 150px;
+    height: 30px;
+    border:none;
+    color:white;
+    border-radius: 7px;
+    cursor: pointer;
+}
