@@ -7,6 +7,7 @@ import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 function App() {
   return (
     <div>
+      <h1 className='heading'><u>Bangladesh Female Cricket Team</u></h1>
      <Team></Team>
     </div>
   );
